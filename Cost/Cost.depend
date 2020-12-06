@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607054900 source:/home/sau/Desktop/Cost/main.cpp
+	<iostream>
+
+1607065726 source:/home/sau/Desktop/Cost/cost.cpp
+	<iostream>
+	<fstream>
+	"option.h"
+	<vector>
+
+1471700080 /home/sau/Desktop/Cost/option.h
+	<sstream>
+	<map>
+
+1471700080 source:/home/sau/Desktop/Cost/option.cpp
+	"option.h"
+
